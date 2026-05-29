@@ -120,4 +120,4 @@ Repository:
 ![Segmentation](screenshots/segmentation-result.png)
 
 ## Web Application
-![Web Application](screenshots/web_aplication.png)
+![Web Application](screenshots/web_aplication.jpg)

@@ -115,3 +115,9 @@ Repository:
 # Screenshots
 ## System Architecture
 ![Architecture](screenshots/system-architecture.png.jpg)
+
+## Segmentation Result
+![Segmentation](screenshots/segmentation-result.png)
+
+## Web Application
+![Web Application](screenshots/web_aplication.png)

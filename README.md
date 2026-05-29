@@ -81,3 +81,37 @@ Model training and evaluation:
 
 ```txt
 Entrenamient-tesis-Oliver-Zamora
+```
+
+Repository:
+- https://github.com/Oliverzam/Entrenamient-tesis-Oliver-Zamora
+
+---
+
+## Frontend Application
+Web application interface developed with Angular:
+
+```txt
+Frontend-tesis-Oliver-Zamora
+```
+
+Repository:
+- https://github.com/Oliverzam/Frontend-tesis-Oliver-Zamora
+
+---
+
+## Backend API
+REST API and AI model integration:
+
+```txt
+Backend-tesis-Oliver-Zamora
+```
+
+Repository:
+- https://github.com/Oliverzam/Backend-tesis-Oliver-Zamora
+
+---
+
+# Screenshots
+## System Architecture
+![Architecture](screenshots/architecture.png)

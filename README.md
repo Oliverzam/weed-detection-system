@@ -114,4 +114,4 @@ Repository:
 
 # Screenshots
 ## System Architecture
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/system-architecture.png)
